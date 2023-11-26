@@ -1,7 +1,8 @@
 import csv
+import json
 import sys
 import networkx as nx
-
+import py_bipartite_matching as pbm
 
 profs = set()
 courses = set()
@@ -9,14 +10,9 @@ courses = set()
 x1_profs = set()
 x2_profs = set()
 x3_profs = set()
-# prof2cat = dict()
 prof2course = dict()
-# course2prof = dict()
 
 nodes = list()
-
-# node2idx = dict()
-
 
 with open(sys.argv[1]) as f:
     for line in csv.reader(f):
@@ -66,12 +62,6 @@ for p in graph_prof_nodes:
             else float("inf"),
         )
 
-# allotment = {c: set() for c in courses}
-# for edge in set(
-#     [tuple(sorted(i)) for i in nx.bipartite.minimum_weight_full_matching(G).items()]
-# ):
-#     allotment[nodes[edge[0]][1]["label"]].add(nodes[edge[1]][1]["label"])
-
 
 def matching2allotment(matching):
     allotment = {c: set() for c in courses}
@@ -99,6 +89,34 @@ max_allotment = matching2allotment(max_match)
 max_cost = allotment2cost(max_allotment)
 
 print(max_cost, max_allotment)
+
+allotments = list()
+
+for matching in pbm.enum_perfect_matchings(G):
+    allotment = matching2allotment(matching)
+    if allotment not in allotments:
+        allotments.append(allotment)
+
+
+allotments = sorted(
+    allotments,
+    key=allotment2cost,
+)
+
+for allotment in allotments:
+    print(allotment)
+print(len(allotments))
+
+with open("output.json", "w") as f:
+    f.write(
+        json.dumps(
+            [
+                ({k: list(v) for k, v in allotment.items()}, allotment2cost(allotment))
+                for allotment in allotments
+            ],
+            indent=4,
+        )
+    )
 
 # from matplotlib import pyplot as plt
 

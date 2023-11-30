@@ -10,6 +10,10 @@ import argparse
 parser = argparse.ArgumentParser()
 parser.add_argument("input", help="input json file", type=str)
 parser.add_argument("iters", help="number of iterations", type=int)
+parser.add_argument("output", help="output json file", type=str, default="output.json")
+parser.add_argument(
+    "-v", "--verbose", action="store_true", help="increase output verbosity"
+)
 
 args = parser.parse_args()
 
@@ -27,6 +31,7 @@ prof2course = dict()
 
 nodes = list()
 
+print("parsing input")
 with open(args.input) as f:
     config = json.loads(f.read())
     for item in config:
@@ -44,13 +49,11 @@ with open(args.input) as f:
 
 courses = fd_cdc.union(fd_el).union(hd_cdc).union(hd_el)
 
-# course_popularity = {c: 0 for c in courses}
-# for prof in prof2course.keys():
-#     for course in prof2course[prof]:
-#         course_popularity[course] += 1
-
-# print(courses)
-# print(course_popularity)
+print(f"found {len(profs)} profs and {len(courses)} courses\n")
+if args.verbose:
+    print("courses:", courses)
+    print("profs:", profs)
+    print()
 
 course_nodes = [{"label": course, "bipartite": 0} for course in list(courses) * 2]
 
@@ -60,16 +63,17 @@ prof_nodes = [
     for prof in profs
 ]
 
-if len(course_nodes) != len(prof_nodes):
+if len(course_nodes) < len(prof_nodes):
     print(
-        "invalid preferences. consider removing an elective or reducing a profs load."
+        f"unable to generate assignments. consider adding electives or reducing a profs load by {(len(prof_nodes)-len(course_nodes))/2} units."
     )
     sys.exit()
-# print(len(course_nodes), len(prof_nodes))
-# print(prof2course)
-# while len(course_nodes) != len(prof_nodes):
-#     if len(course_nodes) < len(prof_nodes):
-#         pro
+
+if len(course_nodes) > len(prof_nodes):
+    print(
+        f"unable to generate assignments. consider removing electives or increasing a profs load by {(len(course_nodes)-len(prof_nodes))/2} units."
+    )
+    sys.exit()
 
 nodes = list(enumerate(course_nodes + prof_nodes))
 
@@ -79,17 +83,17 @@ G.add_nodes_from(nodes)
 
 
 print(f"created bipartite graph with {len(G.nodes())} nodes")
-for node in G.nodes(data=True):
-    print(
-        node,
-    )
-print()
+if args.verbose:
+    for node in G.nodes(data=True):
+        print(
+            node,
+        )
+    print()
 
 graph_course_nodes = [n for n in G.nodes(data=True) if n[1]["bipartite"] == 0]
 graph_prof_nodes = [n for n in G.nodes(data=True) if n[1]["bipartite"] == 1]
 
 
-print(len(graph_course_nodes), len(graph_prof_nodes))
 for p in graph_prof_nodes:
     for c in graph_course_nodes:
         G.add_edge(
@@ -124,13 +128,9 @@ def verify_allotment(allotment):
 
 print("generating matchings")
 
-min_match = nx.bipartite.minimum_weight_full_matching(G)
-min_allotment = matching_to_allotment(min_match)
 
-# print(min_cost, )
-
-allotments = [min_allotment]
-count = 1
+allotments = []
+count = 0
 for matching in tqdm(pbm.enum_perfect_matchings(G), total=int(sys.argv[2])):
     allotment = matching_to_allotment(matching)
     count += 1
@@ -148,7 +148,7 @@ allotments = sorted(
 print(f"\nfound {len(allotments)} unique and valid assignments")
 
 
-with open("output.json", "w") as f:
+with open(args.output, "w") as f:
     f.write(
         json.dumps(
             [
@@ -161,3 +161,4 @@ with open("output.json", "w") as f:
             indent=4,
         )
     )
+print("saved to output.json")

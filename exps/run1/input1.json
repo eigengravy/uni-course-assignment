@@ -1,0 +1,90 @@
+[
+  {
+    "name": "A",
+    "category": 1,
+    "fd cdc": ["fdcdc0", "fdcdc3", "fdcdc2", "fdcdc1"],
+    "fd el": ["fde0", "fde1", "fde2"],
+    "hd cdc": ["hdcdc0", "hdcdc1"],
+    "hd el": ["hdel0", "hdel1"]
+  },
+  {
+    "name": "B",
+    "category": 1.5,
+    "fd cdc": ["fdcdc1", "fdcdc3", "fdcdc2", "fdcdc0"],
+    "fd el": ["fde0", "fde2", "fde1"],
+    "hd cdc": ["hdcdc0", "hdcdc1"],
+    "hd el": ["hdel0", "hdel1"]
+  },
+  {
+    "name": "C",
+    "category": 1,
+    "fd cdc": ["fdcdc0", "fdcdc2", "fdcdc3", "fdcdc1"],
+    "fd el": ["fde0", "fde2", "fde1"],
+    "hd cdc": ["hdcdc1", "hdcdc0"],
+    "hd el": ["hdel1", "hdel0"]
+  },
+  {
+    "name": "D",
+    "category": 0.5,
+    "fd cdc": ["fdcdc0", "fdcdc3", "fdcdc2", "fdcdc1"],
+    "fd el": ["fde2", "fde0", "fde1"],
+    "hd cdc": ["hdcdc0", "hdcdc1"],
+    "hd el": ["hdel0", "hdel1"]
+  },
+  {
+    "name": "E",
+    "category": 1,
+    "fd cdc": ["fdcdc0", "fdcdc3", "fdcdc2", "fdcdc1"],
+    "fd el": ["fde0", "fde2", "fde1"],
+    "hd cdc": ["hdcdc0", "hdcdc1"],
+    "hd el": ["hdel0", "hdel1"]
+  },
+  {
+    "name": "F",
+    "category": 1,
+    "fd cdc": ["fdcdc0", "fdcdc3", "fdcdc2", "fdcdc1"],
+    "fd el": ["fde0", "fde2", "fde1"],
+    "hd cdc": ["hdcdc0", "hdcdc1"],
+    "hd el": ["hdel0", "hdel1"]
+  },
+  {
+    "name": "G",
+    "category": 1.5,
+    "fd cdc": ["fdcdc0", "fdcdc3", "fdcdc2", "fdcdc1"],
+    "fd el": ["fde0", "fde2", "fde1"],
+    "hd cdc": ["hdcdc0", "hdcdc1"],
+    "hd el": ["hdel0", "hdel1"]
+  },
+  {
+    "name": "H",
+    "category": 1,
+    "fd cdc": ["fdcdc0", "fdcdc3", "fdcdc2", "fdcdc1"],
+    "fd el": ["fde0", "fde2", "fde1"],
+    "hd cdc": ["hdcdc0", "hdcdc1"],
+    "hd el": ["hdel0", "hdel1"]
+  },
+  {
+    "name": "I",
+    "category": 1,
+    "fd cdc": ["fdcdc2", "fdcdc3", "fdcdc0", "fdcdc1"],
+    "fd el": ["fde0", "fde2", "fde1"],
+    "hd cdc": ["hdcdc1", "hdcdc0"],
+    "hd el": ["hdel0", "hdel1"]
+  },
+  {
+    "name": "J",
+    "category": 1,
+    "fd cdc": ["fdcdc0", "fdcdc3", "fdcdc2", "fdcdc1"],
+    "fd el": ["fde2", "fde0", "fde1"],
+    "hd cdc": ["hdcdc0", "hdcdc1"],
+    "hd el": ["hdel1", "hdel0"]
+  },
+  {
+    "name": "K",
+    "category": 0.5,
+    "fd cdc": ["fdcdc0", "fdcdc1", "fdcdc2", "fdcdc3"],
+    "fd el": ["fde1", "fde2", "fde0"],
+    "hd cdc": ["hdcdc0", "hdcdc1"],
+    "hd el": ["hdel0", "hdel1"]
+  }
+]

@@ -1,0 +1,5588 @@
+[
+    {
+        "courses": {
+            "C": [
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc1"
+            ]
+        },
+        "score": 0
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1"
+            ]
+        },
+        "score": 2
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1"
+            ]
+        },
+        "score": 2
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc1"
+            ]
+        },
+        "score": 3
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc0",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc1"
+            ]
+        },
+        "score": 3
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1"
+            ],
+            "B": [
+                "fdcdc3"
+            ]
+        },
+        "score": 4
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc3"
+            ]
+        },
+        "score": 4
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1"
+            ]
+        },
+        "score": 4
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1"
+            ]
+        },
+        "score": 4
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1"
+            ]
+        },
+        "score": 4
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1"
+            ]
+        },
+        "score": 4
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1"
+            ],
+            "A": [
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc2"
+            ]
+        },
+        "score": 5
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc2"
+            ]
+        },
+        "score": 5
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc3"
+            ]
+        },
+        "score": 5
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1"
+            ],
+            "D": [
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc3"
+            ]
+        },
+        "score": 5
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1"
+            ]
+        },
+        "score": 5
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1"
+            ]
+        },
+        "score": 5
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc0",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1"
+            ]
+        },
+        "score": 5
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1"
+            ]
+        },
+        "score": 5
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc3"
+            ]
+        },
+        "score": 6
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1"
+            ],
+            "A": [
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc3"
+            ]
+        },
+        "score": 6
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1"
+            ],
+            "D": [
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc2"
+            ]
+        },
+        "score": 6
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc0",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc2"
+            ]
+        },
+        "score": 6
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1"
+            ],
+            "D": [
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc0"
+            ]
+        },
+        "score": 6
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc0"
+            ]
+        },
+        "score": 6
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc3"
+            ]
+        },
+        "score": 6
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc3"
+            ]
+        },
+        "score": 6
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1"
+            ]
+        },
+        "score": 6
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc0",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1"
+            ]
+        },
+        "score": 6
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1"
+            ]
+        },
+        "score": 6
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1"
+            ]
+        },
+        "score": 6
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1"
+            ]
+        },
+        "score": 6
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1"
+            ],
+            "A": [
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc2"
+            ]
+        },
+        "score": 7
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc2"
+            ]
+        },
+        "score": 7
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc2"
+            ]
+        },
+        "score": 7
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc2"
+            ]
+        },
+        "score": 7
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc3"
+            ]
+        },
+        "score": 7
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1"
+            ],
+            "A": [
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc3"
+            ]
+        },
+        "score": 7
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc3"
+            ]
+        },
+        "score": 7
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1"
+            ],
+            "D": [
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc3"
+            ]
+        },
+        "score": 7
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1"
+            ],
+            "B": [
+                "fdcdc2"
+            ]
+        },
+        "score": 7
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc2"
+            ]
+        },
+        "score": 7
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc1"
+            ],
+            "B": [
+                "fdcdc2"
+            ]
+        },
+        "score": 7
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc0",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc2"
+            ]
+        },
+        "score": 7
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc1"
+            ],
+            "B": [
+                "fdcdc0"
+            ]
+        },
+        "score": 7
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc0"
+            ]
+        },
+        "score": 7
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1"
+            ],
+            "B": [
+                "fdcdc3"
+            ]
+        },
+        "score": 7
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc0",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1"
+            ],
+            "B": [
+                "fdcdc3"
+            ]
+        },
+        "score": 7
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc3"
+            ]
+        },
+        "score": 7
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc0",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc3"
+            ]
+        },
+        "score": 7
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc0",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1"
+            ]
+        },
+        "score": 7
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1"
+            ]
+        },
+        "score": 7
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc0",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc3"
+            ]
+        },
+        "score": 8
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc3"
+            ]
+        },
+        "score": 8
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc3"
+            ]
+        },
+        "score": 8
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1"
+            ],
+            "A": [
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc2"
+            ]
+        },
+        "score": 8
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc2"
+            ]
+        },
+        "score": 8
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc0"
+            ]
+        },
+        "score": 8
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1"
+            ],
+            "A": [
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc0"
+            ]
+        },
+        "score": 8
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc3"
+            ]
+        },
+        "score": 8
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc3"
+            ]
+        },
+        "score": 8
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc1"
+            ],
+            "D": [
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc2"
+            ]
+        },
+        "score": 8
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc2"
+            ]
+        },
+        "score": 8
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc2"
+            ]
+        },
+        "score": 8
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc0",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc2"
+            ]
+        },
+        "score": 8
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc2"
+            ]
+        },
+        "score": 8
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc3"
+            ]
+        },
+        "score": 8
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc0"
+            ]
+        },
+        "score": 8
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc0"
+            ]
+        },
+        "score": 8
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1"
+            ],
+            "D": [
+                "fdcdc0",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc3"
+            ]
+        },
+        "score": 8
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc3"
+            ]
+        },
+        "score": 8
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc3"
+            ]
+        },
+        "score": 8
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc2"
+            ]
+        },
+        "score": 8
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc3"
+            ]
+        },
+        "score": 8
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc2"
+            ]
+        },
+        "score": 8
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc0",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc2"
+            ]
+        },
+        "score": 8
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc3"
+            ]
+        },
+        "score": 8
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc0"
+            ]
+        },
+        "score": 8
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc0"
+            ]
+        },
+        "score": 8
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1"
+            ],
+            "A": [
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc0"
+            ]
+        },
+        "score": 9
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc0"
+            ]
+        },
+        "score": 9
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc2"
+            ]
+        },
+        "score": 9
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1"
+            ],
+            "A": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc2"
+            ]
+        },
+        "score": 9
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc2"
+            ]
+        },
+        "score": 9
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc2"
+            ]
+        },
+        "score": 9
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc2"
+            ]
+        },
+        "score": 9
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc0",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc3"
+            ]
+        },
+        "score": 9
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc0"
+            ]
+        },
+        "score": 9
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1"
+            ],
+            "A": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc0",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc3"
+            ]
+        },
+        "score": 9
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc3"
+            ]
+        },
+        "score": 9
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc3"
+            ]
+        },
+        "score": 9
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc2"
+            ]
+        },
+        "score": 9
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc2"
+            ]
+        },
+        "score": 9
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1"
+            ],
+            "D": [
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc2"
+            ]
+        },
+        "score": 9
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc0",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc3"
+            ]
+        },
+        "score": 9
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc3"
+            ]
+        },
+        "score": 9
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc3"
+            ]
+        },
+        "score": 9
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc2"
+            ]
+        },
+        "score": 9
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc0",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1"
+            ],
+            "D": [
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc0",
+                "fdcdc2"
+            ]
+        },
+        "score": 9
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc2"
+            ]
+        },
+        "score": 9
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc0"
+            ]
+        },
+        "score": 9
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc3"
+            ]
+        },
+        "score": 9
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc0",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc3"
+            ]
+        },
+        "score": 9
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc2"
+            ]
+        },
+        "score": 9
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc2"
+            ]
+        },
+        "score": 9
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1"
+            ],
+            "B": [
+                "fdcdc2"
+            ]
+        },
+        "score": 9
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc3"
+            ]
+        },
+        "score": 9
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc2"
+            ]
+        },
+        "score": 9
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc2"
+            ]
+        },
+        "score": 9
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc3"
+            ]
+        },
+        "score": 9
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc0",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1"
+            ]
+        },
+        "score": 9
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc2"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc2"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc2"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc2"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc0",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc0"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc0"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc0"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc0"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc2"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1"
+            ],
+            "A": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc0",
+                "fdcdc2"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc2"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc2"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc2"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1"
+            ],
+            "A": [
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc0"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc3"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc0",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc3"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc3"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc3"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc2"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc2"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc1"
+            ],
+            "D": [
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc0"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc0"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc0"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc0"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc2"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc2"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc0",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc2"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc0"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc0"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc0"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc0"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc3"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc2"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc2"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc0"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1"
+            ],
+            "B": [
+                "fdcdc0"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc3"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc2"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc0",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc1"
+            ],
+            "B": [
+                "fdcdc0",
+                "fdcdc2"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc0"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc0"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc3"
+            ]
+        },
+        "score": 10
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc2"
+            ]
+        },
+        "score": 11
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc2"
+            ]
+        },
+        "score": 11
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc2"
+            ]
+        },
+        "score": 11
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc2"
+            ]
+        },
+        "score": 11
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc2"
+            ]
+        },
+        "score": 11
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc2"
+            ]
+        },
+        "score": 11
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc3"
+            ]
+        },
+        "score": 11
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc2",
+                "fdcdc0"
+            ]
+        },
+        "score": 11
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc0"
+            ]
+        },
+        "score": 11
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc0"
+            ]
+        },
+        "score": 11
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc2"
+            ]
+        },
+        "score": 11
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc0",
+                "fdcdc2"
+            ]
+        },
+        "score": 11
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1"
+            ],
+            "A": [
+                "fdcdc0",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc0"
+            ]
+        },
+        "score": 11
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc0"
+            ]
+        },
+        "score": 11
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc0"
+            ]
+        },
+        "score": 11
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc0",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc3"
+            ]
+        },
+        "score": 11
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc3"
+            ]
+        },
+        "score": 11
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc2"
+            ]
+        },
+        "score": 11
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc0",
+                "fdcdc2"
+            ]
+        },
+        "score": 11
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc2"
+            ]
+        },
+        "score": 11
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc0"
+            ]
+        },
+        "score": 11
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc2"
+            ]
+        },
+        "score": 11
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc3"
+            ]
+        },
+        "score": 11
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc2"
+            ]
+        },
+        "score": 11
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1"
+            ],
+            "B": [
+                "fdcdc0",
+                "fdcdc2"
+            ]
+        },
+        "score": 11
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc2"
+            ]
+        },
+        "score": 11
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc0"
+            ]
+        },
+        "score": 11
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc0"
+            ]
+        },
+        "score": 11
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc0",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc3"
+            ]
+        },
+        "score": 11
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1"
+            ],
+            "B": [
+                "fdcdc0"
+            ]
+        },
+        "score": 11
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc0"
+            ]
+        },
+        "score": 11
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc0"
+            ]
+        },
+        "score": 11
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc0"
+            ]
+        },
+        "score": 11
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc2"
+            ]
+        },
+        "score": 12
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1"
+            ],
+            "A": [
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc0",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc2",
+                "fdcdc0"
+            ]
+        },
+        "score": 12
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc0",
+                "fdcdc2"
+            ]
+        },
+        "score": 12
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc2"
+            ]
+        },
+        "score": 12
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc0"
+            ]
+        },
+        "score": 12
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc0"
+            ]
+        },
+        "score": 12
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc0"
+            ]
+        },
+        "score": 12
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc2",
+                "fdcdc0"
+            ]
+        },
+        "score": 12
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc0"
+            ]
+        },
+        "score": 12
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc2"
+            ]
+        },
+        "score": 12
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc2"
+            ]
+        },
+        "score": 12
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc0"
+            ]
+        },
+        "score": 12
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc0"
+            ]
+        },
+        "score": 12
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc0",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc0"
+            ]
+        },
+        "score": 12
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc3"
+            ]
+        },
+        "score": 12
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1"
+            ],
+            "D": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc2"
+            ]
+        },
+        "score": 12
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc2"
+            ]
+        },
+        "score": 12
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc2"
+            ]
+        },
+        "score": 12
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc0",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc0"
+            ]
+        },
+        "score": 12
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1"
+            ],
+            "D": [
+                "fdcdc0",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc0"
+            ]
+        },
+        "score": 12
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc0",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc3"
+            ]
+        },
+        "score": 12
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1"
+            ],
+            "D": [
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc0"
+            ]
+        },
+        "score": 12
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc0"
+            ]
+        },
+        "score": 12
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc2"
+            ]
+        },
+        "score": 12
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc2"
+            ]
+        },
+        "score": 12
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc3"
+            ]
+        },
+        "score": 12
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc0"
+            ]
+        },
+        "score": 12
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1"
+            ],
+            "B": [
+                "fdcdc0",
+                "fdcdc2"
+            ]
+        },
+        "score": 12
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc0",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc0"
+            ]
+        },
+        "score": 12
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc2"
+            ]
+        },
+        "score": 12
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc0"
+            ]
+        },
+        "score": 12
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc0"
+            ]
+        },
+        "score": 12
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc0",
+                "fdcdc2"
+            ]
+        },
+        "score": 13
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc0",
+                "fdcdc2"
+            ]
+        },
+        "score": 13
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc0",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc0"
+            ]
+        },
+        "score": 13
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc0"
+            ]
+        },
+        "score": 13
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc2"
+            ]
+        },
+        "score": 13
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc0"
+            ]
+        },
+        "score": 13
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc0"
+            ]
+        },
+        "score": 13
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc0"
+            ]
+        },
+        "score": 13
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc2"
+            ]
+        },
+        "score": 13
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc2"
+            ]
+        },
+        "score": 13
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc0",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc3"
+            ]
+        },
+        "score": 13
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc1"
+            ],
+            "D": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc0",
+                "fdcdc2"
+            ]
+        },
+        "score": 13
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc2"
+            ]
+        },
+        "score": 13
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc0",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc0"
+            ]
+        },
+        "score": 13
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc2",
+                "fdcdc0"
+            ]
+        },
+        "score": 13
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc0"
+            ]
+        },
+        "score": 13
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc2",
+                "fdcdc0"
+            ]
+        },
+        "score": 13
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc0"
+            ]
+        },
+        "score": 13
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc0",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc0",
+                "fdcdc2"
+            ]
+        },
+        "score": 13
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc0"
+            ]
+        },
+        "score": 13
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc2"
+            ]
+        },
+        "score": 13
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc2"
+            ]
+        },
+        "score": 14
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc2"
+            ]
+        },
+        "score": 14
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc0",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc0"
+            ]
+        },
+        "score": 14
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc0"
+            ]
+        },
+        "score": 14
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc0"
+            ]
+        },
+        "score": 14
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc0"
+            ]
+        },
+        "score": 14
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc0"
+            ]
+        },
+        "score": 14
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc2",
+                "fdcdc0"
+            ]
+        },
+        "score": 14
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc0",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc2"
+            ]
+        },
+        "score": 14
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc0"
+            ]
+        },
+        "score": 14
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc0",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc2"
+            ]
+        },
+        "score": 14
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc2"
+            ]
+        },
+        "score": 14
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc0"
+            ]
+        },
+        "score": 14
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc0"
+            ]
+        },
+        "score": 14
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc2"
+            ]
+        },
+        "score": 14
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc0"
+            ]
+        },
+        "score": 14
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1"
+            ],
+            "B": [
+                "fdcdc2",
+                "fdcdc0"
+            ]
+        },
+        "score": 14
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc1",
+                "fdcdc0"
+            ]
+        },
+        "score": 14
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc2",
+                "fdcdc0"
+            ]
+        },
+        "score": 15
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc2",
+                "fdcdc0"
+            ]
+        },
+        "score": 15
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc2",
+                "fdcdc0"
+            ]
+        },
+        "score": 15
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc0",
+                "fdcdc2"
+            ]
+        },
+        "score": 15
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc0",
+                "fdcdc2"
+            ]
+        },
+        "score": 15
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc0"
+            ]
+        },
+        "score": 15
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc0"
+            ]
+        },
+        "score": 15
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc0"
+            ]
+        },
+        "score": 15
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc2"
+            ]
+        },
+        "score": 15
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc0",
+                "fdcdc2"
+            ]
+        },
+        "score": 15
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc0"
+            ]
+        },
+        "score": 15
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc2",
+                "fdcdc0"
+            ]
+        },
+        "score": 15
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc0"
+            ]
+        },
+        "score": 15
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc2",
+                "fdcdc0"
+            ]
+        },
+        "score": 16
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc0"
+            ]
+        },
+        "score": 16
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc0"
+            ]
+        },
+        "score": 16
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc2",
+                "fdcdc0"
+            ]
+        },
+        "score": 16
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc0"
+            ]
+        },
+        "score": 16
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc0",
+                "fdcdc2"
+            ]
+        },
+        "score": 16
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "B": [
+                "fdcdc2",
+                "fdcdc0"
+            ]
+        },
+        "score": 16
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc2",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc0",
+                "fdcdc2"
+            ]
+        },
+        "score": 17
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc3",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc0"
+            ],
+            "B": [
+                "fdcdc0",
+                "fdcdc2"
+            ]
+        },
+        "score": 17
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc0",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc0"
+            ]
+        },
+        "score": 17
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc3"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc2",
+                "fdcdc0"
+            ]
+        },
+        "score": 17
+    },
+    {
+        "courses": {
+            "C": [
+                "fdcdc3",
+                "fdcdc0"
+            ],
+            "A": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "D": [
+                "fdcdc1",
+                "fdcdc2"
+            ],
+            "B": [
+                "fdcdc3",
+                "fdcdc0"
+            ]
+        },
+        "score": 17
+    }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "name": "A",
+    "category": 1,
+    "fd cdc": ["fdcdc0", "fdcdc3", "fdcdc2", "fdcdc1"],
+    "fd el": [],
+    "hd cdc": ["hdcdc1"],
+    "hd el": []
+  },
+  {
+    "name": "B",
+    "category": 1.5,
+    "fd cdc": ["fdcdc1", "fdcdc3", "fdcdc2", "fdcdc0"],
+    "fd el": [],
+    "hd cdc": ["hdcdc0"],
+    "hd el": []
+  },
+  {
+    "name": "C",
+    "category": 1.5,
+    "fd cdc": ["fdcdc2", "fdcdc0", "fdcdc3", "fdcdc1"],
+    "fd el": [],
+    "hd cdc": ["hdcdc0"],
+    "hd el": []
+  },
+  {
+    "name": "D",
+    "category": 1.5,
+    "fd cdc": ["fdcdc3", "fdcdc0", "fdcdc2", "fdcdc1"],
+    "fd el": [],
+    "hd cdc": ["hdcdc1"],
+    "hd el": []
+  }
+]

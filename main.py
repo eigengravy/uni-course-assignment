@@ -3,7 +3,7 @@ import sys
 import networkx as nx
 import py_bipartite_matching as pbm
 from tqdm import tqdm
-
+from karp_min_weight import min_weight_matching
 import argparse
 
 
@@ -30,6 +30,11 @@ courses = set()
 prof2course = dict()
 
 nodes = list()
+
+min_matching = min_weight_matching(args.input)
+output_file_name = args.output[:-5] + "-min weight.json"
+with open(output_file_name, 'w') as file:
+    json.dump(min_matching, file, indent=4)  
 
 print("parsing input")
 with open(args.input) as f:
@@ -69,6 +74,7 @@ if len(course_nodes) < len(prof_nodes):
     )
     sys.exit()
 
+#before this remove extra courses
 if len(course_nodes) > len(prof_nodes):
     print(
         f"unable to generate assignments. consider removing electives or increasing a profs load by {(len(course_nodes)-len(prof_nodes))/2} units."

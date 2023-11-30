@@ -1,0 +1,101 @@
+{
+    "A": [
+        "fde3",
+        "fdcdc3"
+    ],
+    "C": [
+        "hdcdc0"
+    ],
+    "H": [
+        "hdcdc1"
+    ],
+    "I": [
+        "fde13"
+    ],
+    "L": [
+        "fde12"
+    ],
+    "O": [
+        "fde4"
+    ],
+    "P": [
+        "fde2"
+    ],
+    "S": [
+        "hdcdc2"
+    ],
+    "T": [
+        "hdcdc6"
+    ],
+    "U": [
+        "hdcdc4"
+    ],
+    "X": [
+        "hdcdc1"
+    ],
+    "Y": [
+        "hdel6"
+    ],
+    "AC": [
+        "fdcdc1"
+    ],
+    "AD": [
+        "fdcdc8"
+    ],
+    "AE": [
+        "fdcdc5"
+    ],
+    "AF": [
+        "fdcdc6"
+    ],
+    "M": [
+        "fdcdc3",
+        "fde1"
+    ],
+    "K": [
+        "fde3"
+    ],
+    "F": [
+        "fde0"
+    ],
+    "E": [
+        "fdcdc0",
+        "fde4"
+    ],
+    "Q": [
+        "fde1"
+    ],
+    "AB": [
+        "hdel1",
+        "hdel0"
+    ],
+    "D": [
+        "hdel1"
+    ],
+    "B": [
+        "hdel0",
+        "fdcdc2"
+    ],
+    "Z": [
+        "fdcdc2"
+    ],
+    "N": [
+        "hdcdc7"
+    ],
+    "R": [
+        "hdcdc3"
+    ],
+    "V": [
+        "hdel2"
+    ],
+    "W": [
+        "hdel3"
+    ],
+    "AA": [
+        "fde7"
+    ],
+    "AG": [
+        "fdcdc7"
+    ],
+    "Minimum Sum of Weights": 201.0
+}

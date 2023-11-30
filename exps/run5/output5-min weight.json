@@ -1,0 +1,18 @@
+{
+    "A": [
+        "fdcdc2"
+    ],
+    "B": [
+        "fdcdc3",
+        "fdcdc1"
+    ],
+    "C": [
+        "hdcdc0",
+        "fdcdc0"
+    ],
+    "D": [
+        "hdcdc1",
+        "fdcdc0"
+    ],
+    "Minimum Sum of Weights": 20.0
+}

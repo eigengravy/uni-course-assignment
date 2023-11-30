@@ -1,0 +1,39 @@
+{
+    "A": [
+        "hdel1"
+    ],
+    "B": [
+        "fdcdc3",
+        "hdcdc1"
+    ],
+    "C": [
+        "fde2"
+    ],
+    "D": [
+        "fdcdc1"
+    ],
+    "G": [
+        "fde1",
+        "fdcdc0"
+    ],
+    "H": [
+        "fdcdc2"
+    ],
+    "I": [
+        "fde0"
+    ],
+    "J": [
+        "hdel0"
+    ],
+    "K": [
+        "fdcdc1"
+    ],
+    "E": [
+        "fde1",
+        "hdcdc1"
+    ],
+    "F": [
+        "hdcdc0"
+    ],
+    "Minimum Sum of Weights": 37.0
+}

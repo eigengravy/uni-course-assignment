@@ -1,34 +1,78 @@
 [
-  {
-    "name": "A",
-    "category": 1,
-    "fd cdc": ["fdcdc0", "fdcdc3", "fdcdc2", "fdcdc1"],
-    "fd el": [],
-    "hd cdc": [],
-    "hd el": []
-  },
-  {
-    "name": "B",
-    "category": 1,
-    "fd cdc": ["fdcdc1", "fdcdc3", "fdcdc2", "fdcdc0"],
-    "fd el": [],
-    "hd cdc": [],
-    "hd el": []
-  },
-  {
-    "name": "C",
-    "category": 1,
-    "fd cdc": ["fdcdc2", "fdcdc0", "fdcdc3", "fdcdc1"],
-    "fd el": [],
-    "hd cdc": [],
-    "hd el": []
-  },
-  {
-    "name": "D",
-    "category": 1,
-    "fd cdc": ["fdcdc3", "fdcdc0", "fdcdc2", "fdcdc1"],
-    "fd el": [],
-    "hd cdc": [],
-    "hd el": []
-  }
+    {
+        "name": "A",
+        "category": 1,
+        "fd cdc": [
+            "fdcdc0",
+            "fdcdc3",
+            "fdcdc2",
+            "fdcdc1"
+        ],
+        "fd el": [],
+        "hd cdc": [],
+        "hd el": [],
+        "preference_order": [
+            "fdcdc2",
+            "fdcdc3",
+            "fdcdc0",
+            "fdcdc1"
+        ]
+    },
+    {
+        "name": "B",
+        "category": 1,
+        "fd cdc": [
+            "fdcdc1",
+            "fdcdc3",
+            "fdcdc2",
+            "fdcdc0"
+        ],
+        "fd el": [],
+        "hd cdc": [],
+        "hd el": [],
+        "preference_order": [
+            "fdcdc1",
+            "fdcdc3",
+            "fdcdc0",
+            "fdcdc2"
+        ]
+    },
+    {
+        "name": "C",
+        "category": 1,
+        "fd cdc": [
+            "fdcdc2",
+            "fdcdc0",
+            "fdcdc3",
+            "fdcdc1"
+        ],
+        "fd el": [],
+        "hd cdc": [],
+        "hd el": [],
+        "preference_order": [
+            "fdcdc0",
+            "fdcdc1",
+            "fdcdc3",
+            "fdcdc2"
+        ]
+    },
+    {
+        "name": "D",
+        "category": 1,
+        "fd cdc": [
+            "fdcdc3",
+            "fdcdc0",
+            "fdcdc2",
+            "fdcdc1"
+        ],
+        "fd el": [],
+        "hd cdc": [],
+        "hd el": [],
+        "preference_order": [
+            "fdcdc2",
+            "fdcdc0",
+            "fdcdc3",
+            "fdcdc1"
+        ]
+    }
 ]

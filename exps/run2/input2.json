@@ -1,266 +1,1256 @@
 [
-  {
-    "name": "A",
-    "category": 1,
-    "fd cdc": ["fdcdc0", "fdcdc3", "fdcdc2", "fdcdc1"],
-    "fd el": ["fde0", "fde3", "fde2", "fde1"],
-    "hd cdc": ["hdcdc0", "hdcdc1"],
-    "hd el": ["hdel0", "hdel1"]
-  },
-  {
-    "name": "B",
-    "category": 1.5,
-    "fd cdc": ["fdcdc1", "fdcdc3", "fdcdc2", "fdcdc0"],
-    "fd el": ["fde0", "fde3", "fde2", "fde1"],
-    "hd cdc": ["hdcdc0", "hdcdc1"],
-    "hd el": ["hdel0", "hdel1"]
-  },
-  {
-    "name": "C",
-    "category": 1,
-    "fd cdc": ["fdcdc0", "fdcdc2", "fdcdc3", "fdcdc1"],
-    "fd el": ["fde0", "fde4", "fde2", "fde1"],
-    "hd cdc": ["hdcdc1", "hdcdc0"],
-    "hd el": ["hdel1", "hdel0"]
-  },
-  {
-    "name": "D",
-    "category": 0.5,
-    "fd cdc": ["fdcdc0", "fdcdc3", "fdcdc2", "fdcdc1"],
-    "fd el": ["fde2", "fde4", "fde0", "fde1"],
-    "hd cdc": ["hdcdc0", "hdcdc1"],
-    "hd el": ["hdel0", "hdel1"]
-  },
-  {
-    "name": "E",
-    "category": 1.5,
-    "fd cdc": ["fdcdc0", "fdcdc3", "fdcdc2", "fdcdc1"],
-    "fd el": ["fde0", "fde4", "fde2", "fde1"],
-    "hd cdc": ["hdcdc0", "hdcdc1"],
-    "hd el": ["hdel0", "hdel1"]
-  },
-  {
-    "name": "F",
-    "category": 1.5,
-    "fd cdc": ["fdcdc0", "fdcdc3", "fdcdc2", "fdcdc1"],
-    "fd el": ["fde0", "fde3", "fde2", "fde1"],
-    "hd cdc": ["hdcdc0", "hdcdc1"],
-    "hd el": ["hdel0", "hdel1"]
-  },
-  {
-    "name": "G",
-    "category": 1.5,
-    "fd cdc": ["fdcdc0", "fdcdc3", "fdcdc2", "fdcdc1"],
-    "fd el": ["fde0", "fde3", "fde2", "fde1"],
-    "hd cdc": ["hdcdc0", "hdcdc1"],
-    "hd el": ["hdel0", "hdel1"]
-  },
-  {
-    "name": "H",
-    "category": 1,
-    "fd cdc": ["fdcdc0", "fdcdc3", "fdcdc2", "fdcdc1"],
-    "fd el": ["fde0", "fde3", "fde2", "fde1"],
-    "hd cdc": ["hdcdc0", "hdcdc1"],
-    "hd el": ["hdel0", "hdel1"]
-  },
-  {
-    "name": "I",
-    "category": 1,
-    "fd cdc": ["fdcdc2", "fdcdc3", "fdcdc0", "fdcdc1"],
-    "fd el": ["fde10", "fde13", "fde2", "fde9"],
-    "hd cdc": ["hdcdc1", "hdcdc0"],
-    "hd el": ["hdel0", "hdel1"]
-  },
-  {
-    "name": "J",
-    "category": 1,
-    "fd cdc": ["fdcdc0", "fdcdc3", "fdcdc2", "fdcdc1"],
-    "fd el": ["fde2", "fde0", "fde3", "fde1"],
-    "hd cdc": ["hdcdc0", "hdcdc1"],
-    "hd el": ["hdel0", "hdel1"]
-  },
-  {
-    "name": "K",
-    "category": 0.5,
-    "fd cdc": ["fdcdc0", "fdcdc1", "fdcdc2", "fdcdc3"],
-    "fd el": ["fde1", "fde3", "fde2", "fde0"],
-    "hd cdc": ["hdcdc0", "hdcdc1"],
-    "hd el": ["hdel0", "hdel1"]
-  },
-  {
-    "name": "L",
-    "category": 1,
-    "fd cdc": ["fdcdc0", "fdcdc3", "fdcdc2", "fdcdc1"],
-    "fd el": ["fde8", "fde11", "fde12", "fde13"],
-    "hd cdc": ["hdcdc0", "hdcdc1"],
-    "hd el": ["hdel0", "hdel1"]
-  },
-  {
-    "name": "M",
-    "category": 1.5,
-    "fd cdc": ["fdcdc1", "fdcdc3", "fdcdc2", "fdcdc0"],
-    "fd el": ["fde0", "fde3", "fde2", "fde1"],
-    "hd cdc": ["hdcdc0", "hdcdc1"],
-    "hd el": ["hdel0", "hdel1"]
-  },
-  {
-    "name": "N",
-    "category": 1,
-    "fd cdc": ["fdcdc0", "fdcdc2", "fdcdc3", "fdcdc1"],
-    "fd el": ["fde0", "fde4", "fde2", "fde1"],
-    "hd cdc": ["hdcdc1", "hdcdc7"],
-    "hd el": ["hdel1", "hdel0"]
-  },
-  {
-    "name": "O",
-    "category": 0.5,
-    "fd cdc": ["fdcdc0", "fdcdc3", "fdcdc2", "fdcdc1"],
-    "fd el": ["fde2", "fde4", "fde0", "fde1"],
-    "hd cdc": ["hdcdc0", "hdcdc1"],
-    "hd el": ["hdel0", "hdel1"]
-  },
-  {
-    "name": "P",
-    "category": 1,
-    "fd cdc": ["fdcdc0", "fdcdc3", "fdcdc2", "fdcdc1"],
-    "fd el": ["fde0", "fde4", "fde2", "fde1"],
-    "hd cdc": ["hdcdc0", "hdcdc1"],
-    "hd el": ["hdel0", "hdel1"]
-  },
-  {
-    "name": "Q",
-    "category": 1,
-    "fd cdc": ["fdcdc0", "fdcdc3", "fdcdc2", "fdcdc1"],
-    "fd el": ["fde0", "fde3", "fde2", "fde1"],
-    "hd cdc": ["hdcdc0", "hdcdc1"],
-    "hd el": ["hdel0", "hdel1"]
-  },
-  {
-    "name": "R",
-    "category": 1,
-    "fd cdc": ["fdcdc0", "fdcdc3", "fdcdc2", "fdcdc1"],
-    "fd el": ["fde0", "fde3", "fde2", "fde1"],
-    "hd cdc": ["hdcdc0", "hdcdc3"],
-    "hd el": ["hdel0", "hdel1"]
-  },
-  {
-    "name": "S",
-    "category": 1,
-    "fd cdc": ["fdcdc0", "fdcdc3", "fdcdc2", "fdcdc1"],
-    "fd el": ["fde0", "fde3", "fde2", "fde1"],
-    "hd cdc": ["hdcdc2", "hdcdc1"],
-    "hd el": ["hdel0", "hdel1"]
-  },
-  {
-    "name": "T",
-    "category": 1,
-    "fd cdc": ["fdcdc2", "fdcdc3", "fdcdc0", "fdcdc1"],
-    "fd el": ["fde0", "fde3", "fde2", "fde1"],
-    "hd cdc": ["hdcdc6", "hdcdc0"],
-    "hd el": ["hdel0", "hdel1"]
-  },
-  {
-    "name": "U",
-    "category": 1,
-    "fd cdc": ["fdcdc0", "fdcdc3", "fdcdc2", "fdcdc1"],
-    "fd el": ["fde2", "fde0", "fde3", "fde1"],
-    "hd cdc": ["hdcdc4", "hdcdc1"],
-    "hd el": ["hdel3", "hdel2"]
-  },
-  {
-    "name": "V",
-    "category": 1,
-    "fd cdc": ["fdcdc0", "fdcdc1", "fdcdc2", "fdcdc3"],
-    "fd el": ["fde1", "fde7", "fde2", "fde0"],
-    "hd cdc": ["hdcdc0", "hdcdc1"],
-    "hd el": ["hdel2", "hdel1"]
-  },
-  {
-    "name": "W",
-    "category": 1,
-    "fd cdc": ["fdcdc0", "fdcdc3", "fdcdc2", "fdcdc1"],
-    "fd el": ["fde0", "fde3", "fde2", "fde1"],
-    "hd cdc": ["hdcdc0", "hdcdc1"],
-    "hd el": ["hdel0", "hdel3"]
-  },
-  {
-    "name": "X",
-    "category": 0.5,
-    "fd cdc": ["fdcdc1", "fdcdc3", "fdcdc2", "fdcdc0"],
-    "fd el": ["fde0", "fde3", "fde2", "fde1"],
-    "hd cdc": ["hdcdc0", "hdcdc1"],
-    "hd el": ["hdel0", "hdel1"]
-  },
-  {
-    "name": "Y",
-    "category": 1,
-    "fd cdc": ["fdcdc0", "fdcdc2", "fdcdc3", "fdcdc1"],
-    "fd el": ["fde0", "fde4", "fde2", "fde1"],
-    "hd cdc": ["hdcdc1", "hdcdc0"],
-    "hd el": ["hdel1", "hdel6"]
-  },
-  {
-    "name": "Z",
-    "category": 0.5,
-    "fd cdc": ["fdcdc0", "fdcdc3", "fdcdc2", "fdcdc1"],
-    "fd el": ["fde2", "fde4", "fde0", "fde1"],
-    "hd cdc": ["hdcdc0", "hdcdc1"],
-    "hd el": ["hdel0", "hdel1"]
-  },
-  {
-    "name": "AA",
-    "category": 1,
-    "fd cdc": ["fdcdc0", "fdcdc3", "fdcdc2", "fdcdc1"],
-    "fd el": ["fde0", "fde7", "fde2", "fde1"],
-    "hd cdc": ["hdcdc0", "hdcdc1"],
-    "hd el": ["hdel0", "hdel1"]
-  },
-  {
-    "name": "AB",
-    "category": 1,
-    "fd cdc": ["fdcdc0", "fdcdc3", "fdcdc2", "fdcdc1"],
-    "fd el": ["fde0", "fde3", "fde2", "fde1"],
-    "hd cdc": ["hdcdc0", "hdcdc1"],
-    "hd el": ["hdel0", "hdel1"]
-  },
-  {
-    "name": "AC",
-    "category": 1,
-    "fd cdc": ["fdcdc0", "fdcdc3", "fdcdc2", "fdcdc1"],
-    "fd el": ["fde0", "fde3", "fde2", "fde1"],
-    "hd cdc": ["hdcdc0", "hdcdc1"],
-    "hd el": ["hdel0", "hdel1"]
-  },
-  {
-    "name": "AD",
-    "category": 1,
-    "fd cdc": ["fdcdc0", "fdcdc8", "fdcdc2", "fdcdc1"],
-    "fd el": ["fde0", "fde3", "fde2", "fde1"],
-    "hd cdc": ["hdcdc0", "hdcdc1"],
-    "hd el": ["hdel0", "hdel1"]
-  },
-  {
-    "name": "AE",
-    "category": 1,
-    "fd cdc": ["fdcdc5", "fdcdc3", "fdcdc0", "fdcdc1"],
-    "fd el": ["fde0", "fde3", "fde2", "fde1"],
-    "hd cdc": ["hdcdc1", "hdcdc0"],
-    "hd el": ["hdel0", "hdel1"]
-  },
-  {
-    "name": "AF",
-    "category": 1,
-    "fd cdc": ["fdcdc0", "fdcdc9", "fdcdc6", "fdcdc1"],
-    "fd el": ["fde2", "fde0", "fde3", "fde1"],
-    "hd cdc": ["hdcdc0", "hdcdc1"],
-    "hd el": ["hdel0", "hdel1"]
-  },
-  {
-    "name": "AG",
-    "category": 1,
-    "fd cdc": ["fdcdc7", "fdcdc1", "fdcdc2", "fdcdc3"],
-    "fd el": ["fde1", "fde3", "fde2", "fde0"],
-    "hd cdc": ["hdcdc0", "hdcdc1"],
-    "hd el": ["hdel0", "hdel1"]
-  }
+    {
+        "name": "A",
+        "category": 1,
+        "fd cdc": [
+            "fdcdc0",
+            "fdcdc3",
+            "fdcdc2",
+            "fdcdc1"
+        ],
+        "fd el": [
+            "fde0",
+            "fde3",
+            "fde2",
+            "fde1"
+        ],
+        "hd cdc": [
+            "hdcdc0",
+            "hdcdc1"
+        ],
+        "hd el": [
+            "hdel0",
+            "hdel1"
+        ],
+        "preference_order": [
+            "fdcdc3",
+            "fde3",
+            "hdcdc0",
+            "hdcdc1",
+            "fde0",
+            "fdcdc0",
+            "fde1",
+            "hdel1",
+            "fdcdc1",
+            "fde2",
+            "hdel0",
+            "fdcdc2"
+        ]
+    },
+    {
+        "name": "B",
+        "category": 1.5,
+        "fd cdc": [
+            "fdcdc1",
+            "fdcdc3",
+            "fdcdc2",
+            "fdcdc0"
+        ],
+        "fd el": [
+            "fde0",
+            "fde3",
+            "fde2",
+            "fde1"
+        ],
+        "hd cdc": [
+            "hdcdc0",
+            "hdcdc1"
+        ],
+        "hd el": [
+            "hdel0",
+            "hdel1"
+        ],
+        "preference_order": [
+            "hdcdc1",
+            "fdcdc2",
+            "hdel0",
+            "fdcdc0",
+            "hdcdc0",
+            "fde3",
+            "fdcdc1",
+            "fde1",
+            "fde2",
+            "hdel1",
+            "fde0",
+            "fdcdc3"
+        ]
+    },
+    {
+        "name": "C",
+        "category": 1,
+        "fd cdc": [
+            "fdcdc0",
+            "fdcdc2",
+            "fdcdc3",
+            "fdcdc1"
+        ],
+        "fd el": [
+            "fde0",
+            "fde4",
+            "fde2",
+            "fde1"
+        ],
+        "hd cdc": [
+            "hdcdc1",
+            "hdcdc0"
+        ],
+        "hd el": [
+            "hdel1",
+            "hdel0"
+        ],
+        "preference_order": [
+            "hdcdc0",
+            "hdcdc1",
+            "fde2",
+            "hdel0",
+            "fdcdc0",
+            "fdcdc1",
+            "hdel1",
+            "fde0",
+            "fdcdc3",
+            "fde4",
+            "fde1",
+            "fdcdc2"
+        ]
+    },
+    {
+        "name": "D",
+        "category": 0.5,
+        "fd cdc": [
+            "fdcdc0",
+            "fdcdc3",
+            "fdcdc2",
+            "fdcdc1"
+        ],
+        "fd el": [
+            "fde2",
+            "fde4",
+            "fde0",
+            "fde1"
+        ],
+        "hd cdc": [
+            "hdcdc0",
+            "hdcdc1"
+        ],
+        "hd el": [
+            "hdel0",
+            "hdel1"
+        ],
+        "preference_order": [
+            "hdel1",
+            "fde0",
+            "fde1",
+            "fdcdc0",
+            "fdcdc2",
+            "fde2",
+            "hdcdc0",
+            "fdcdc3",
+            "hdel0",
+            "fde4",
+            "fdcdc1",
+            "hdcdc1"
+        ]
+    },
+    {
+        "name": "E",
+        "category": 1.5,
+        "fd cdc": [
+            "fdcdc0",
+            "fdcdc3",
+            "fdcdc2",
+            "fdcdc1"
+        ],
+        "fd el": [
+            "fde0",
+            "fde4",
+            "fde2",
+            "fde1"
+        ],
+        "hd cdc": [
+            "hdcdc0",
+            "hdcdc1"
+        ],
+        "hd el": [
+            "hdel0",
+            "hdel1"
+        ],
+        "preference_order": [
+            "fdcdc0",
+            "fde0",
+            "fdcdc3",
+            "hdcdc1",
+            "fde2",
+            "fde4",
+            "fde1",
+            "hdel1",
+            "hdel0",
+            "hdcdc0",
+            "fdcdc1",
+            "fdcdc2"
+        ]
+    },
+    {
+        "name": "F",
+        "category": 1.5,
+        "fd cdc": [
+            "fdcdc0",
+            "fdcdc3",
+            "fdcdc2",
+            "fdcdc1"
+        ],
+        "fd el": [
+            "fde0",
+            "fde3",
+            "fde2",
+            "fde1"
+        ],
+        "hd cdc": [
+            "hdcdc0",
+            "hdcdc1"
+        ],
+        "hd el": [
+            "hdel0",
+            "hdel1"
+        ],
+        "preference_order": [
+            "fdcdc1",
+            "fde0",
+            "fde1",
+            "fde3",
+            "hdel0",
+            "fdcdc3",
+            "hdcdc1",
+            "fde2",
+            "hdcdc0",
+            "hdel1",
+            "fdcdc2",
+            "fdcdc0"
+        ]
+    },
+    {
+        "name": "G",
+        "category": 1.5,
+        "fd cdc": [
+            "fdcdc0",
+            "fdcdc3",
+            "fdcdc2",
+            "fdcdc1"
+        ],
+        "fd el": [
+            "fde0",
+            "fde3",
+            "fde2",
+            "fde1"
+        ],
+        "hd cdc": [
+            "hdcdc0",
+            "hdcdc1"
+        ],
+        "hd el": [
+            "hdel0",
+            "hdel1"
+        ],
+        "preference_order": [
+            "fdcdc1",
+            "fdcdc0",
+            "fde1",
+            "hdel0",
+            "fde3",
+            "fde0",
+            "fde2",
+            "hdcdc1",
+            "hdel1",
+            "fdcdc2",
+            "fdcdc3",
+            "hdcdc0"
+        ]
+    },
+    {
+        "name": "H",
+        "category": 1,
+        "fd cdc": [
+            "fdcdc0",
+            "fdcdc3",
+            "fdcdc2",
+            "fdcdc1"
+        ],
+        "fd el": [
+            "fde0",
+            "fde3",
+            "fde2",
+            "fde1"
+        ],
+        "hd cdc": [
+            "hdcdc0",
+            "hdcdc1"
+        ],
+        "hd el": [
+            "hdel0",
+            "hdel1"
+        ],
+        "preference_order": [
+            "hdcdc1",
+            "fdcdc0",
+            "fde2",
+            "hdel1",
+            "fdcdc2",
+            "fdcdc3",
+            "fde3",
+            "hdcdc0",
+            "hdel0",
+            "fde0",
+            "fdcdc1",
+            "fde1"
+        ]
+    },
+    {
+        "name": "I",
+        "category": 1,
+        "fd cdc": [
+            "fdcdc2",
+            "fdcdc3",
+            "fdcdc0",
+            "fdcdc1"
+        ],
+        "fd el": [
+            "fde10",
+            "fde13",
+            "fde2",
+            "fde9"
+        ],
+        "hd cdc": [
+            "hdcdc1",
+            "hdcdc0"
+        ],
+        "hd el": [
+            "hdel0",
+            "hdel1"
+        ],
+        "preference_order": [
+            "fdcdc0",
+            "fdcdc2",
+            "hdel1",
+            "fdcdc1",
+            "fdcdc3",
+            "fde13",
+            "hdcdc0",
+            "fde9",
+            "fde10",
+            "hdel0",
+            "fde2",
+            "hdcdc1"
+        ]
+    },
+    {
+        "name": "J",
+        "category": 1,
+        "fd cdc": [
+            "fdcdc0",
+            "fdcdc3",
+            "fdcdc2",
+            "fdcdc1"
+        ],
+        "fd el": [
+            "fde2",
+            "fde0",
+            "fde3",
+            "fde1"
+        ],
+        "hd cdc": [
+            "hdcdc0",
+            "hdcdc1"
+        ],
+        "hd el": [
+            "hdel0",
+            "hdel1"
+        ],
+        "preference_order": [
+            "fdcdc1",
+            "fde2",
+            "fdcdc0",
+            "fdcdc3",
+            "fdcdc2",
+            "hdcdc0",
+            "fde0",
+            "hdel1",
+            "hdel0",
+            "fde3",
+            "hdcdc1",
+            "fde1"
+        ]
+    },
+    {
+        "name": "K",
+        "category": 0.5,
+        "fd cdc": [
+            "fdcdc0",
+            "fdcdc1",
+            "fdcdc2",
+            "fdcdc3"
+        ],
+        "fd el": [
+            "fde1",
+            "fde3",
+            "fde2",
+            "fde0"
+        ],
+        "hd cdc": [
+            "hdcdc0",
+            "hdcdc1"
+        ],
+        "hd el": [
+            "hdel0",
+            "hdel1"
+        ],
+        "preference_order": [
+            "fdcdc1",
+            "hdel1",
+            "fde3",
+            "hdel0",
+            "fde1",
+            "fde2",
+            "fde0",
+            "fdcdc2",
+            "fdcdc0",
+            "hdcdc0",
+            "hdcdc1",
+            "fdcdc3"
+        ]
+    },
+    {
+        "name": "L",
+        "category": 1,
+        "fd cdc": [
+            "fdcdc0",
+            "fdcdc3",
+            "fdcdc2",
+            "fdcdc1"
+        ],
+        "fd el": [
+            "fde8",
+            "fde11",
+            "fde12",
+            "fde13"
+        ],
+        "hd cdc": [
+            "hdcdc0",
+            "hdcdc1"
+        ],
+        "hd el": [
+            "hdel0",
+            "hdel1"
+        ],
+        "preference_order": [
+            "fdcdc2",
+            "fdcdc1",
+            "hdel0",
+            "hdcdc0",
+            "fde13",
+            "fde12",
+            "fdcdc3",
+            "hdcdc1",
+            "fdcdc0",
+            "fde11",
+            "hdel1",
+            "fde8"
+        ]
+    },
+    {
+        "name": "M",
+        "category": 1.5,
+        "fd cdc": [
+            "fdcdc1",
+            "fdcdc3",
+            "fdcdc2",
+            "fdcdc0"
+        ],
+        "fd el": [
+            "fde0",
+            "fde3",
+            "fde2",
+            "fde1"
+        ],
+        "hd cdc": [
+            "hdcdc0",
+            "hdcdc1"
+        ],
+        "hd el": [
+            "hdel0",
+            "hdel1"
+        ],
+        "preference_order": [
+            "fde1",
+            "fdcdc3",
+            "fdcdc2",
+            "hdel0",
+            "fde0",
+            "fdcdc0",
+            "hdcdc0",
+            "hdcdc1",
+            "hdel1",
+            "fdcdc1",
+            "fde3",
+            "fde2"
+        ]
+    },
+    {
+        "name": "N",
+        "category": 1,
+        "fd cdc": [
+            "fdcdc0",
+            "fdcdc2",
+            "fdcdc3",
+            "fdcdc1"
+        ],
+        "fd el": [
+            "fde0",
+            "fde4",
+            "fde2",
+            "fde1"
+        ],
+        "hd cdc": [
+            "hdcdc1",
+            "hdcdc7"
+        ],
+        "hd el": [
+            "hdel1",
+            "hdel0"
+        ],
+        "preference_order": [
+            "fdcdc1",
+            "fdcdc0",
+            "fdcdc3",
+            "fdcdc2",
+            "fde0",
+            "hdcdc7",
+            "fde1",
+            "fde4",
+            "fde2",
+            "hdel0",
+            "hdcdc1",
+            "hdel1"
+        ]
+    },
+    {
+        "name": "O",
+        "category": 0.5,
+        "fd cdc": [
+            "fdcdc0",
+            "fdcdc3",
+            "fdcdc2",
+            "fdcdc1"
+        ],
+        "fd el": [
+            "fde2",
+            "fde4",
+            "fde0",
+            "fde1"
+        ],
+        "hd cdc": [
+            "hdcdc0",
+            "hdcdc1"
+        ],
+        "hd el": [
+            "hdel0",
+            "hdel1"
+        ],
+        "preference_order": [
+            "fdcdc3",
+            "hdel0",
+            "hdel1",
+            "hdcdc0",
+            "fde4",
+            "fdcdc0",
+            "fde0",
+            "fde1",
+            "fdcdc2",
+            "hdcdc1",
+            "fde2",
+            "fdcdc1"
+        ]
+    },
+    {
+        "name": "P",
+        "category": 1,
+        "fd cdc": [
+            "fdcdc0",
+            "fdcdc3",
+            "fdcdc2",
+            "fdcdc1"
+        ],
+        "fd el": [
+            "fde0",
+            "fde4",
+            "fde2",
+            "fde1"
+        ],
+        "hd cdc": [
+            "hdcdc0",
+            "hdcdc1"
+        ],
+        "hd el": [
+            "hdel0",
+            "hdel1"
+        ],
+        "preference_order": [
+            "fde2",
+            "fde1",
+            "hdcdc0",
+            "hdel0",
+            "fdcdc1",
+            "fde0",
+            "hdel1",
+            "fdcdc0",
+            "hdcdc1",
+            "fdcdc2",
+            "fdcdc3",
+            "fde4"
+        ]
+    },
+    {
+        "name": "Q",
+        "category": 1,
+        "fd cdc": [
+            "fdcdc0",
+            "fdcdc3",
+            "fdcdc2",
+            "fdcdc1"
+        ],
+        "fd el": [
+            "fde0",
+            "fde3",
+            "fde2",
+            "fde1"
+        ],
+        "hd cdc": [
+            "hdcdc0",
+            "hdcdc1"
+        ],
+        "hd el": [
+            "hdel0",
+            "hdel1"
+        ],
+        "preference_order": [
+            "fde1",
+            "hdcdc1",
+            "hdel0",
+            "fdcdc1",
+            "fdcdc2",
+            "fdcdc3",
+            "fdcdc0",
+            "fde3",
+            "fde0",
+            "hdel1",
+            "fde2",
+            "hdcdc0"
+        ]
+    },
+    {
+        "name": "R",
+        "category": 1,
+        "fd cdc": [
+            "fdcdc0",
+            "fdcdc3",
+            "fdcdc2",
+            "fdcdc1"
+        ],
+        "fd el": [
+            "fde0",
+            "fde3",
+            "fde2",
+            "fde1"
+        ],
+        "hd cdc": [
+            "hdcdc0",
+            "hdcdc3"
+        ],
+        "hd el": [
+            "hdel0",
+            "hdel1"
+        ],
+        "preference_order": [
+            "fde1",
+            "hdcdc3",
+            "fde3",
+            "fdcdc2",
+            "fde0",
+            "fdcdc3",
+            "fdcdc1",
+            "fde2",
+            "fdcdc0",
+            "hdel0",
+            "hdel1",
+            "hdcdc0"
+        ]
+    },
+    {
+        "name": "S",
+        "category": 1,
+        "fd cdc": [
+            "fdcdc0",
+            "fdcdc3",
+            "fdcdc2",
+            "fdcdc1"
+        ],
+        "fd el": [
+            "fde0",
+            "fde3",
+            "fde2",
+            "fde1"
+        ],
+        "hd cdc": [
+            "hdcdc2",
+            "hdcdc1"
+        ],
+        "hd el": [
+            "hdel0",
+            "hdel1"
+        ],
+        "preference_order": [
+            "hdel1",
+            "fde0",
+            "fdcdc1",
+            "hdcdc2",
+            "fdcdc2",
+            "fde3",
+            "fdcdc0",
+            "fde2",
+            "hdcdc1",
+            "fdcdc3",
+            "fde1",
+            "hdel0"
+        ]
+    },
+    {
+        "name": "T",
+        "category": 1,
+        "fd cdc": [
+            "fdcdc2",
+            "fdcdc3",
+            "fdcdc0",
+            "fdcdc1"
+        ],
+        "fd el": [
+            "fde0",
+            "fde3",
+            "fde2",
+            "fde1"
+        ],
+        "hd cdc": [
+            "hdcdc6",
+            "hdcdc0"
+        ],
+        "hd el": [
+            "hdel0",
+            "hdel1"
+        ],
+        "preference_order": [
+            "hdel0",
+            "hdcdc0",
+            "fdcdc3",
+            "fde3",
+            "fde1",
+            "fde2",
+            "hdel1",
+            "hdcdc6",
+            "fdcdc2",
+            "fdcdc0",
+            "fdcdc1",
+            "fde0"
+        ]
+    },
+    {
+        "name": "U",
+        "category": 1,
+        "fd cdc": [
+            "fdcdc0",
+            "fdcdc3",
+            "fdcdc2",
+            "fdcdc1"
+        ],
+        "fd el": [
+            "fde2",
+            "fde0",
+            "fde3",
+            "fde1"
+        ],
+        "hd cdc": [
+            "hdcdc4",
+            "hdcdc1"
+        ],
+        "hd el": [
+            "hdel3",
+            "hdel2"
+        ],
+        "preference_order": [
+            "fde0",
+            "hdel2",
+            "hdcdc4",
+            "fdcdc0",
+            "fde1",
+            "fde2",
+            "hdcdc1",
+            "fde3",
+            "fdcdc2",
+            "fdcdc1",
+            "hdel3",
+            "fdcdc3"
+        ]
+    },
+    {
+        "name": "V",
+        "category": 1,
+        "fd cdc": [
+            "fdcdc0",
+            "fdcdc1",
+            "fdcdc2",
+            "fdcdc3"
+        ],
+        "fd el": [
+            "fde1",
+            "fde7",
+            "fde2",
+            "fde0"
+        ],
+        "hd cdc": [
+            "hdcdc0",
+            "hdcdc1"
+        ],
+        "hd el": [
+            "hdel2",
+            "hdel1"
+        ],
+        "preference_order": [
+            "hdel1",
+            "hdcdc0",
+            "fdcdc0",
+            "hdel2",
+            "fdcdc1",
+            "fde0",
+            "fde1",
+            "fde7",
+            "fdcdc3",
+            "hdcdc1",
+            "fdcdc2",
+            "fde2"
+        ]
+    },
+    {
+        "name": "W",
+        "category": 1,
+        "fd cdc": [
+            "fdcdc0",
+            "fdcdc3",
+            "fdcdc2",
+            "fdcdc1"
+        ],
+        "fd el": [
+            "fde0",
+            "fde3",
+            "fde2",
+            "fde1"
+        ],
+        "hd cdc": [
+            "hdcdc0",
+            "hdcdc1"
+        ],
+        "hd el": [
+            "hdel0",
+            "hdel3"
+        ],
+        "preference_order": [
+            "fdcdc1",
+            "hdcdc0",
+            "fde2",
+            "fdcdc2",
+            "fdcdc3",
+            "hdel3",
+            "fde3",
+            "fdcdc0",
+            "fde0",
+            "hdcdc1",
+            "fde1",
+            "hdel0"
+        ]
+    },
+    {
+        "name": "X",
+        "category": 0.5,
+        "fd cdc": [
+            "fdcdc1",
+            "fdcdc3",
+            "fdcdc2",
+            "fdcdc0"
+        ],
+        "fd el": [
+            "fde0",
+            "fde3",
+            "fde2",
+            "fde1"
+        ],
+        "hd cdc": [
+            "hdcdc0",
+            "hdcdc1"
+        ],
+        "hd el": [
+            "hdel0",
+            "hdel1"
+        ],
+        "preference_order": [
+            "hdcdc1",
+            "fdcdc3",
+            "fdcdc0",
+            "fdcdc1",
+            "fde1",
+            "hdcdc0",
+            "fdcdc2",
+            "hdel1",
+            "fde0",
+            "hdel0",
+            "fde3",
+            "fde2"
+        ]
+    },
+    {
+        "name": "Y",
+        "category": 1,
+        "fd cdc": [
+            "fdcdc0",
+            "fdcdc2",
+            "fdcdc3",
+            "fdcdc1"
+        ],
+        "fd el": [
+            "fde0",
+            "fde4",
+            "fde2",
+            "fde1"
+        ],
+        "hd cdc": [
+            "hdcdc1",
+            "hdcdc0"
+        ],
+        "hd el": [
+            "hdel1",
+            "hdel6"
+        ],
+        "preference_order": [
+            "fde1",
+            "hdel1",
+            "fdcdc2",
+            "hdcdc0",
+            "fdcdc0",
+            "fde0",
+            "fdcdc1",
+            "hdcdc1",
+            "fde4",
+            "fde2",
+            "hdel6",
+            "fdcdc3"
+        ]
+    },
+    {
+        "name": "Z",
+        "category": 0.5,
+        "fd cdc": [
+            "fdcdc0",
+            "fdcdc3",
+            "fdcdc2",
+            "fdcdc1"
+        ],
+        "fd el": [
+            "fde2",
+            "fde4",
+            "fde0",
+            "fde1"
+        ],
+        "hd cdc": [
+            "hdcdc0",
+            "hdcdc1"
+        ],
+        "hd el": [
+            "hdel0",
+            "hdel1"
+        ],
+        "preference_order": [
+            "fdcdc2",
+            "hdel1",
+            "hdel0",
+            "fdcdc0",
+            "hdcdc1",
+            "fde1",
+            "fde4",
+            "fdcdc3",
+            "fde0",
+            "fde2",
+            "hdcdc0",
+            "fdcdc1"
+        ]
+    },
+    {
+        "name": "AA",
+        "category": 1,
+        "fd cdc": [
+            "fdcdc0",
+            "fdcdc3",
+            "fdcdc2",
+            "fdcdc1"
+        ],
+        "fd el": [
+            "fde0",
+            "fde7",
+            "fde2",
+            "fde1"
+        ],
+        "hd cdc": [
+            "hdcdc0",
+            "hdcdc1"
+        ],
+        "hd el": [
+            "hdel0",
+            "hdel1"
+        ],
+        "preference_order": [
+            "fdcdc2",
+            "fdcdc3",
+            "fdcdc0",
+            "fde2",
+            "fde7",
+            "fde0",
+            "hdcdc1",
+            "hdcdc0",
+            "hdel0",
+            "fde1",
+            "fdcdc1",
+            "hdel1"
+        ]
+    },
+    {
+        "name": "AB",
+        "category": 1,
+        "fd cdc": [
+            "fdcdc0",
+            "fdcdc3",
+            "fdcdc2",
+            "fdcdc1"
+        ],
+        "fd el": [
+            "fde0",
+            "fde3",
+            "fde2",
+            "fde1"
+        ],
+        "hd cdc": [
+            "hdcdc0",
+            "hdcdc1"
+        ],
+        "hd el": [
+            "hdel0",
+            "hdel1"
+        ],
+        "preference_order": [
+            "hdel1",
+            "hdel0",
+            "fde2",
+            "fdcdc1",
+            "fde1",
+            "hdcdc1",
+            "fdcdc3",
+            "fde0",
+            "fde3",
+            "fdcdc0",
+            "fdcdc2",
+            "hdcdc0"
+        ]
+    },
+    {
+        "name": "AC",
+        "category": 1,
+        "fd cdc": [
+            "fdcdc0",
+            "fdcdc3",
+            "fdcdc2",
+            "fdcdc1"
+        ],
+        "fd el": [
+            "fde0",
+            "fde3",
+            "fde2",
+            "fde1"
+        ],
+        "hd cdc": [
+            "hdcdc0",
+            "hdcdc1"
+        ],
+        "hd el": [
+            "hdel0",
+            "hdel1"
+        ],
+        "preference_order": [
+            "fdcdc1",
+            "fdcdc3",
+            "fde0",
+            "hdcdc1",
+            "fde2",
+            "fdcdc0",
+            "fdcdc2",
+            "fde1",
+            "hdcdc0",
+            "hdel0",
+            "fde3",
+            "hdel1"
+        ]
+    },
+    {
+        "name": "AD",
+        "category": 1,
+        "fd cdc": [
+            "fdcdc0",
+            "fdcdc8",
+            "fdcdc2",
+            "fdcdc1"
+        ],
+        "fd el": [
+            "fde0",
+            "fde3",
+            "fde2",
+            "fde1"
+        ],
+        "hd cdc": [
+            "hdcdc0",
+            "hdcdc1"
+        ],
+        "hd el": [
+            "hdel0",
+            "hdel1"
+        ],
+        "preference_order": [
+            "fdcdc2",
+            "hdcdc1",
+            "fdcdc1",
+            "fdcdc8",
+            "fde3",
+            "fde2",
+            "fde1",
+            "fdcdc0",
+            "hdel0",
+            "hdel1",
+            "fde0",
+            "hdcdc0"
+        ]
+    },
+    {
+        "name": "AE",
+        "category": 1,
+        "fd cdc": [
+            "fdcdc5",
+            "fdcdc3",
+            "fdcdc0",
+            "fdcdc1"
+        ],
+        "fd el": [
+            "fde0",
+            "fde3",
+            "fde2",
+            "fde1"
+        ],
+        "hd cdc": [
+            "hdcdc1",
+            "hdcdc0"
+        ],
+        "hd el": [
+            "hdel0",
+            "hdel1"
+        ],
+        "preference_order": [
+            "hdel1",
+            "fde3",
+            "hdcdc0",
+            "hdel0",
+            "fde2",
+            "fdcdc3",
+            "hdcdc1",
+            "fdcdc5",
+            "fde1",
+            "fdcdc1",
+            "fde0",
+            "fdcdc0"
+        ]
+    },
+    {
+        "name": "AF",
+        "category": 1,
+        "fd cdc": [
+            "fdcdc0",
+            "fdcdc9",
+            "fdcdc6",
+            "fdcdc1"
+        ],
+        "fd el": [
+            "fde2",
+            "fde0",
+            "fde3",
+            "fde1"
+        ],
+        "hd cdc": [
+            "hdcdc0",
+            "hdcdc1"
+        ],
+        "hd el": [
+            "hdel0",
+            "hdel1"
+        ],
+        "preference_order": [
+            "hdel1",
+            "hdcdc1",
+            "fde1",
+            "fdcdc6",
+            "hdcdc0",
+            "hdel0",
+            "fdcdc0",
+            "fde3",
+            "fde2",
+            "fde0",
+            "fdcdc9",
+            "fdcdc1"
+        ]
+    },
+    {
+        "name": "AG",
+        "category": 1,
+        "fd cdc": [
+            "fdcdc7",
+            "fdcdc1",
+            "fdcdc2",
+            "fdcdc3"
+        ],
+        "fd el": [
+            "fde1",
+            "fde3",
+            "fde2",
+            "fde0"
+        ],
+        "hd cdc": [
+            "hdcdc0",
+            "hdcdc1"
+        ],
+        "hd el": [
+            "hdel0",
+            "hdel1"
+        ],
+        "preference_order": [
+            "fdcdc7",
+            "fdcdc1",
+            "hdel1",
+            "fde3",
+            "fde0",
+            "fdcdc2",
+            "fdcdc3",
+            "hdcdc1",
+            "fde2",
+            "hdel0",
+            "fde1",
+            "hdcdc0"
+        ]
+    }
 ]

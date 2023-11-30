@@ -1,90 +1,398 @@
 [
-  {
-    "name": "A",
-    "category": 1,
-    "fd cdc": ["fdcdc0", "fdcdc3", "fdcdc2", "fdcdc1"],
-    "fd el": ["fde0", "fde1", "fde2"],
-    "hd cdc": ["hdcdc0", "hdcdc1"],
-    "hd el": ["hdel0", "hdel1"]
-  },
-  {
-    "name": "B",
-    "category": 1.5,
-    "fd cdc": ["fdcdc1", "fdcdc3", "fdcdc2", "fdcdc0"],
-    "fd el": ["fde0", "fde2", "fde1"],
-    "hd cdc": ["hdcdc0", "hdcdc1"],
-    "hd el": ["hdel0", "hdel1"]
-  },
-  {
-    "name": "C",
-    "category": 1,
-    "fd cdc": ["fdcdc0", "fdcdc2", "fdcdc3", "fdcdc1"],
-    "fd el": ["fde0", "fde2", "fde1"],
-    "hd cdc": ["hdcdc1", "hdcdc0"],
-    "hd el": ["hdel1", "hdel0"]
-  },
-  {
-    "name": "D",
-    "category": 0.5,
-    "fd cdc": ["fdcdc0", "fdcdc3", "fdcdc2", "fdcdc1"],
-    "fd el": ["fde2", "fde0", "fde1"],
-    "hd cdc": ["hdcdc0", "hdcdc1"],
-    "hd el": ["hdel0", "hdel1"]
-  },
-  {
-    "name": "E",
-    "category": 1,
-    "fd cdc": ["fdcdc0", "fdcdc3", "fdcdc2", "fdcdc1"],
-    "fd el": ["fde0", "fde2", "fde1"],
-    "hd cdc": ["hdcdc0", "hdcdc1"],
-    "hd el": ["hdel0", "hdel1"]
-  },
-  {
-    "name": "F",
-    "category": 1,
-    "fd cdc": ["fdcdc0", "fdcdc3", "fdcdc2", "fdcdc1"],
-    "fd el": ["fde0", "fde2", "fde1"],
-    "hd cdc": ["hdcdc0", "hdcdc1"],
-    "hd el": ["hdel0", "hdel1"]
-  },
-  {
-    "name": "G",
-    "category": 1.5,
-    "fd cdc": ["fdcdc0", "fdcdc3", "fdcdc2", "fdcdc1"],
-    "fd el": ["fde0", "fde2", "fde1"],
-    "hd cdc": ["hdcdc0", "hdcdc1"],
-    "hd el": ["hdel0", "hdel1"]
-  },
-  {
-    "name": "H",
-    "category": 1,
-    "fd cdc": ["fdcdc0", "fdcdc3", "fdcdc2", "fdcdc1"],
-    "fd el": ["fde0", "fde2", "fde1"],
-    "hd cdc": ["hdcdc0", "hdcdc1"],
-    "hd el": ["hdel0", "hdel1"]
-  },
-  {
-    "name": "I",
-    "category": 1,
-    "fd cdc": ["fdcdc2", "fdcdc3", "fdcdc0", "fdcdc1"],
-    "fd el": ["fde0", "fde2", "fde1"],
-    "hd cdc": ["hdcdc1", "hdcdc0"],
-    "hd el": ["hdel0", "hdel1"]
-  },
-  {
-    "name": "J",
-    "category": 1,
-    "fd cdc": ["fdcdc0", "fdcdc3", "fdcdc2", "fdcdc1"],
-    "fd el": ["fde2", "fde0", "fde1"],
-    "hd cdc": ["hdcdc0", "hdcdc1"],
-    "hd el": ["hdel1", "hdel0"]
-  },
-  {
-    "name": "K",
-    "category": 0.5,
-    "fd cdc": ["fdcdc0", "fdcdc1", "fdcdc2", "fdcdc3"],
-    "fd el": ["fde1", "fde2", "fde0"],
-    "hd cdc": ["hdcdc0", "hdcdc1"],
-    "hd el": ["hdel0", "hdel1"]
-  }
+    {
+        "name": "A",
+        "category": 1,
+        "fd cdc": [
+            "fdcdc0",
+            "fdcdc3",
+            "fdcdc2",
+            "fdcdc1"
+        ],
+        "fd el": [
+            "fde0",
+            "fde1",
+            "fde2"
+        ],
+        "hd cdc": [
+            "hdcdc0",
+            "hdcdc1"
+        ],
+        "hd el": [
+            "hdel0",
+            "hdel1"
+        ],
+        "preference_order": [
+            "hdel1",
+            "fde1",
+            "fdcdc1",
+            "fdcdc3",
+            "fdcdc0",
+            "hdcdc0",
+            "hdcdc1",
+            "hdel0",
+            "fdcdc2",
+            "fde0",
+            "fde2"
+        ]
+    },
+    {
+        "name": "B",
+        "category": 1.5,
+        "fd cdc": [
+            "fdcdc1",
+            "fdcdc3",
+            "fdcdc2",
+            "fdcdc0"
+        ],
+        "fd el": [
+            "fde0",
+            "fde2",
+            "fde1"
+        ],
+        "hd cdc": [
+            "hdcdc0",
+            "hdcdc1"
+        ],
+        "hd el": [
+            "hdel0",
+            "hdel1"
+        ],
+        "preference_order": [
+            "hdcdc1",
+            "fde0",
+            "fde2",
+            "fdcdc3",
+            "fdcdc1",
+            "hdel0",
+            "hdel1",
+            "fdcdc2",
+            "hdcdc0",
+            "fde1",
+            "fdcdc0"
+        ]
+    },
+    {
+        "name": "C",
+        "category": 1,
+        "fd cdc": [
+            "fdcdc0",
+            "fdcdc2",
+            "fdcdc3",
+            "fdcdc1"
+        ],
+        "fd el": [
+            "fde0",
+            "fde2",
+            "fde1"
+        ],
+        "hd cdc": [
+            "hdcdc1",
+            "hdcdc0"
+        ],
+        "hd el": [
+            "hdel1",
+            "hdel0"
+        ],
+        "preference_order": [
+            "fde2",
+            "hdel1",
+            "hdcdc0",
+            "fdcdc3",
+            "fde0",
+            "fdcdc0",
+            "fde1",
+            "fdcdc1",
+            "fdcdc2",
+            "hdel0",
+            "hdcdc1"
+        ]
+    },
+    {
+        "name": "D",
+        "category": 0.5,
+        "fd cdc": [
+            "fdcdc0",
+            "fdcdc3",
+            "fdcdc2",
+            "fdcdc1"
+        ],
+        "fd el": [
+            "fde2",
+            "fde0",
+            "fde1"
+        ],
+        "hd cdc": [
+            "hdcdc0",
+            "hdcdc1"
+        ],
+        "hd el": [
+            "hdel0",
+            "hdel1"
+        ],
+        "preference_order": [
+            "fdcdc1",
+            "hdel0",
+            "hdcdc1",
+            "fdcdc3",
+            "fde0",
+            "fdcdc0",
+            "fdcdc2",
+            "hdcdc0",
+            "fde1",
+            "hdel1",
+            "fde2"
+        ]
+    },
+    {
+        "name": "E",
+        "category": 1,
+        "fd cdc": [
+            "fdcdc0",
+            "fdcdc3",
+            "fdcdc2",
+            "fdcdc1"
+        ],
+        "fd el": [
+            "fde0",
+            "fde2",
+            "fde1"
+        ],
+        "hd cdc": [
+            "hdcdc0",
+            "hdcdc1"
+        ],
+        "hd el": [
+            "hdel0",
+            "hdel1"
+        ],
+        "preference_order": [
+            "hdcdc1",
+            "hdel0",
+            "fde2",
+            "fde1",
+            "fdcdc0",
+            "fde0",
+            "fdcdc3",
+            "fdcdc2",
+            "fdcdc1",
+            "hdcdc0",
+            "hdel1"
+        ]
+    },
+    {
+        "name": "F",
+        "category": 1,
+        "fd cdc": [
+            "fdcdc0",
+            "fdcdc3",
+            "fdcdc2",
+            "fdcdc1"
+        ],
+        "fd el": [
+            "fde0",
+            "fde2",
+            "fde1"
+        ],
+        "hd cdc": [
+            "hdcdc0",
+            "hdcdc1"
+        ],
+        "hd el": [
+            "hdel0",
+            "hdel1"
+        ],
+        "preference_order": [
+            "hdcdc1",
+            "hdcdc0",
+            "fde2",
+            "fde1",
+            "hdel1",
+            "hdel0",
+            "fde0",
+            "fdcdc0",
+            "fdcdc2",
+            "fdcdc3",
+            "fdcdc1"
+        ]
+    },
+    {
+        "name": "G",
+        "category": 1.5,
+        "fd cdc": [
+            "fdcdc0",
+            "fdcdc3",
+            "fdcdc2",
+            "fdcdc1"
+        ],
+        "fd el": [
+            "fde0",
+            "fde2",
+            "fde1"
+        ],
+        "hd cdc": [
+            "hdcdc0",
+            "hdcdc1"
+        ],
+        "hd el": [
+            "hdel0",
+            "hdel1"
+        ],
+        "preference_order": [
+            "fde1",
+            "fdcdc0",
+            "hdel0",
+            "hdcdc0",
+            "fdcdc2",
+            "fde0",
+            "fde2",
+            "fdcdc1",
+            "hdcdc1",
+            "fdcdc3",
+            "hdel1"
+        ]
+    },
+    {
+        "name": "H",
+        "category": 1,
+        "fd cdc": [
+            "fdcdc0",
+            "fdcdc3",
+            "fdcdc2",
+            "fdcdc1"
+        ],
+        "fd el": [
+            "fde0",
+            "fde2",
+            "fde1"
+        ],
+        "hd cdc": [
+            "hdcdc0",
+            "hdcdc1"
+        ],
+        "hd el": [
+            "hdel0",
+            "hdel1"
+        ],
+        "preference_order": [
+            "hdcdc0",
+            "fdcdc2",
+            "fde1",
+            "fdcdc0",
+            "fdcdc1",
+            "hdel0",
+            "fde2",
+            "hdcdc1",
+            "fdcdc3",
+            "hdel1",
+            "fde0"
+        ]
+    },
+    {
+        "name": "I",
+        "category": 1,
+        "fd cdc": [
+            "fdcdc2",
+            "fdcdc3",
+            "fdcdc0",
+            "fdcdc1"
+        ],
+        "fd el": [
+            "fde0",
+            "fde2",
+            "fde1"
+        ],
+        "hd cdc": [
+            "hdcdc1",
+            "hdcdc0"
+        ],
+        "hd el": [
+            "hdel0",
+            "hdel1"
+        ],
+        "preference_order": [
+            "fde0",
+            "hdcdc1",
+            "hdcdc0",
+            "fdcdc1",
+            "fdcdc3",
+            "fdcdc0",
+            "fde1",
+            "hdel0",
+            "fdcdc2",
+            "hdel1",
+            "fde2"
+        ]
+    },
+    {
+        "name": "J",
+        "category": 1,
+        "fd cdc": [
+            "fdcdc0",
+            "fdcdc3",
+            "fdcdc2",
+            "fdcdc1"
+        ],
+        "fd el": [
+            "fde2",
+            "fde0",
+            "fde1"
+        ],
+        "hd cdc": [
+            "hdcdc0",
+            "hdcdc1"
+        ],
+        "hd el": [
+            "hdel1",
+            "hdel0"
+        ],
+        "preference_order": [
+            "hdel0",
+            "hdcdc0",
+            "fdcdc2",
+            "fde2",
+            "fde0",
+            "fdcdc3",
+            "hdel1",
+            "fdcdc0",
+            "hdcdc1",
+            "fde1",
+            "fdcdc1"
+        ]
+    },
+    {
+        "name": "K",
+        "category": 0.5,
+        "fd cdc": [
+            "fdcdc0",
+            "fdcdc1",
+            "fdcdc2",
+            "fdcdc3"
+        ],
+        "fd el": [
+            "fde1",
+            "fde2",
+            "fde0"
+        ],
+        "hd cdc": [
+            "hdcdc0",
+            "hdcdc1"
+        ],
+        "hd el": [
+            "hdel0",
+            "hdel1"
+        ],
+        "preference_order": [
+            "fdcdc1",
+            "fde2",
+            "fde1",
+            "hdcdc0",
+            "fdcdc0",
+            "hdel0",
+            "fdcdc3",
+            "fde0",
+            "hdcdc1",
+            "hdel1",
+            "fdcdc2"
+        ]
+    }
 ]

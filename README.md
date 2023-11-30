@@ -1,4 +1,4 @@
-# Application of Graph Optimization for University Course Assignment System
+# Optimization of University Course Assignment System Using Graph Theory
 
 Repo contains the code, sample test cases and the report.
 
